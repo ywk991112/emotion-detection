@@ -1,6 +1,6 @@
 # sentiment-chatbot
 
-emotion research dataset
+Emotion Detection
 ------
 1. [ISEAR](http://emotion-research.net/wiki/Databases)
 
